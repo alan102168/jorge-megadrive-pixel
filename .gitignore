@@ -1,0 +1,11 @@
+# Compilados SGDK e artes geradas automaticamente
+out/
+dist/
+src/graphics.h
+src/boot/
+*.o
+*.elf
+*.map
+__pycache__/
+.DS_Store
+Thumbs.db
