@@ -64,6 +64,7 @@ jobs:
             dist/Jorge_Truck_Driver.bin \
             dist/Jorge_Truck_Driver.png \
             dist/Jorge_Truck_Driver_M8_Lite.zip \
+            dist/preview-pixelart.png \
             --target "$GITHUB_SHA" \
             --title "Jorge Truck Driver - Mega Drive (M8 Lite) $VERSION" \
             --notes "Versao Pixel Art 16 bits do Jorge, compilado com SGDK para Mega Drive. A compatibilidade com cada revisao do M8 Lite ainda precisa ser testada no aparelho. Nao substitua os arquivos do sistema do Game Stick."
